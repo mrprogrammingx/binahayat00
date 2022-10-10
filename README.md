@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi every one 👋
+<h3 align="center">A learning backend developer</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/binahayat00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binahayat00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/binahayat00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binahayat00" height="30" width="40" /></a>
+</p>
+
 
 <!--
 **binahayat00/binahayat00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
