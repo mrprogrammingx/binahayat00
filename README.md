@@ -1,4 +1,4 @@
-### Hi every one 👋
+### Hi everyone 👋
 <h3 align="left">I'm Amir Reza Zare, A learning backend developer.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
