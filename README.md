@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/binahayat00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binahayat00" height="30" width="40" /></a>
 </p>
 #Skills
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="300" height="300"/>
 
 
 
