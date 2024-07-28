@@ -33,8 +33,13 @@
   </tr>
 </table>
 
-
-
+<div align="center" text-align="center">
+<picture align="center" text-align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="files/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="files/github-snake.svg" />
+  <img alt="github-snake" src="files/github-snake.svg" />
+</picture>
+</div>
 <!--
 **binahayat00/binahayat00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
