@@ -1,7 +1,8 @@
-### Hi everyone 👋
+<h2> Hi everyone 👋 </h2>
 <!-- prettier-ignore -->
 <h3 align="left">I'm Amir Zare, A learning backend developer.</h3>
-<p> +5 years of experience in programming.</p>
+<p>   ✅  +5 years of experience in programming.</p>
+<p>   ✅	Graduated with a degree in Computer Software Engineering, with a Minor in Artificial Intelligence.</p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/binahayat00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binahayat00" height="30" width="40" /></a>
@@ -26,14 +27,26 @@
 <table width="100%" align="center" style="border: 0" text-align="center">
   <tr>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="150" height="150" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="100" height="100" />
     </td>
     <td >
-      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="150" height="150" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="100" height="100" />
+    </td>
+    <td >
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="100" height="100" />
+    </td>
+    <td >
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="100" height="100" />
+    </td>
+    <td >
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100" />
+    </td>
+    <td >
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="100" height="100" />
     </td>
   </tr>
 </table>
-
+<h2></h2>
 <div align="center" text-align="center">
 <picture align="center" text-align="center">
   <source media="(prefers-color-scheme: dark)" srcset="files/github-snake-dark.svg" />
