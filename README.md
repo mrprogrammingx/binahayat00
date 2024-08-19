@@ -17,8 +17,8 @@
 </div>
 <div align="center">
 <!--   <img width="200" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binahayat00&size_weight=1&count_weight=1&layout=pie&theme=vision-friendly-dark"> -->
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binahayat00&size_weight=1&count_weight=1&layout=donut&theme=vision-friendly-dark" width="412px"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binahayat00&size_weight=1&count_weight=1&layout=donut&theme=vision-friendly-dark" width="400px" height="250px"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=binahayat00&show_icons=true&theme=vision-friendly-dark&count_private=true&line_height=43" width="400px" height="250px" />
 </div>
 <br />
 
