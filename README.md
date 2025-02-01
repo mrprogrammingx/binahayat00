@@ -1,6 +1,6 @@
 <h2> Hi everyone 👋 </h2>
 <!-- prettier-ignore -->
-<h3 align="left">I'm Amir Zare, A learning backend developer.</h3>
+<h3 align="left">I'm Amir Zare, A Backend Developer.</h3>
 <p>   ✅  +5 years of experience in programming.</p>
 <p>   ✅	Graduated with a degree in Computer Software Engineering, with a Minor in Artificial Intelligence.</p>
 <h4 align="left">Connect with me:</h4>
