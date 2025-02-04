@@ -13,7 +13,7 @@
 ## Git History 🔥
 
 <div align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=binahayat00&theme=dark&border_radius=40.5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=binahayat00&theme=dark&border_radius=40.5&card_width=800" alt="Git Activities">
 </div>
 <div align="center" style="margin:200px;" >
 <!--   <img width="200" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binahayat00&size_weight=1&count_weight=1&layout=pie&theme=vision-friendly-dark"> -->
