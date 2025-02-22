@@ -13,12 +13,12 @@
 ## Git History 🔥
 
 <div align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=binahayat00&theme=dark&border_radius=40.5&card_width=800" alt="Git Activities">
+  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=mrprogrammingx&theme=dark&border_radius=40.5&card_width=800" alt="Git Activities">
 </div>
 <div align="center" style="margin:200px;" >
-<!--   <img width="200" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binahayat00&size_weight=1&count_weight=1&layout=pie&theme=vision-friendly-dark"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binahayat00&size_weight=1&count_weight=1&layout=compact&theme=dark&border_radius=35.5" />
-<!--   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=binahayat00&show_icons=false&theme=dark&count_private=true&line_height=22&border_radius=35.5" height="145px"/> -->
+<!--   <img width="200" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprogrammingx&size_weight=1&count_weight=1&layout=pie&theme=vision-friendly-dark"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprogrammingx&size_weight=1&count_weight=1&layout=compact&theme=dark&border_radius=35.5" />
+<!--   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=mrprogrammingx&show_icons=false&theme=dark&count_private=true&line_height=22&border_radius=35.5" height="145px"/> -->
 </div>
 <br />
 
@@ -55,7 +55,7 @@
 </picture>
 </div>
 <!--
-**binahayat00/binahayat00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mrprogrammingx/mrprogrammingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
